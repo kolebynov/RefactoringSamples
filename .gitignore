@@ -1,0 +1,15 @@
+RefactoringSamples/bin/
+RefactoringSamples/.idea/
+RefactoringSamples/.eslintrc*
+RefactoringSamples/package-lock.json
+RefactoringSamples/obj/
+RefactoringSamples/wwwroot/dist/
+RefactoringSamples/node_modules/
+RefactoringSamples.EFCore/bin/
+RefactoringSamples.EFCore/obj/
+RefactoringSamples.Fake/bin/
+RefactoringSamples.Fake/obj/
+RefactoringSamples.Tests/bin/
+RefactoringSamples.Tests/obj/
+.vs/
+TestResults/
